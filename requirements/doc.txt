@@ -103,7 +103,7 @@ django==2.2.19
     #   edx-django-utils
     #   edx-toggles
     #   event-tracking
-    #   jsonfield2
+    #   jsonfield
 djangorestframework==3.12.2
     # via
     #   -r requirements/test.txt
@@ -150,7 +150,7 @@ jinja2==2.11.3
     #   -r requirements/test.txt
     #   code-annotations
     #   sphinx
-jsonfield2==4.0.0.post0
+jsonfield==3.1.0
     # via -r requirements/test.txt
 kombu==5.0.2
     # via

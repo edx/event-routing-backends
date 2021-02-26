@@ -129,7 +129,7 @@ django==2.2.19
     #   edx-lint
     #   edx-toggles
     #   event-tracking
-    #   jsonfield2
+    #   jsonfield
 djangorestframework==3.12.2
     # via
     #   -r requirements/quality.txt
@@ -183,7 +183,7 @@ jinja2==2.11.3
     #   code-annotations
     #   diff-cover
     #   jinja2-pluralize
-jsonfield2==4.0.0.post0
+jsonfield==3.1.0
     # via -r requirements/quality.txt
 kombu==5.0.2
     # via
