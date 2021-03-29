@@ -16,6 +16,12 @@ Unreleased
 
 *
 
+[4.0.2]
+~~~~~~~
+
+* Switched from jsonfield2 to jsonfield as the earlier one has archived and merged back in the latter one.
+
+
 [4.0.1]
 ~~~~~~~
 
